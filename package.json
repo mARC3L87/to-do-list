@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:mARC3L87/to-do-list.git",
+  "author": "Marcel Łukomski <marcel.lukomski@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
